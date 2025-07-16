@@ -1,12 +1,19 @@
-# Social Buzz Project
+# 📊 Social Buzz Project
 
-📊 **Big Data Analytics for Social Buzz**  
-Supporting scalable growth with data-driven insights and recommendations.
+**Analytics & Recommendations for Scalable Growth**
+
+---
+
+## 📍 Overview
+
+The **Social Buzz Project** is a big data analytics case study for a rapidly expanding tech company preparing for IPO readiness.  
+It analyzes large volumes of social media content to identify the top five content categories, delivers actionable insights, and recommends strategies for scaling content operations sustainably.
 
 ---
 
 ## 📁 Project Structure
 
+.
 ├── data/
 │ ├── SocialBuzz_Data.xlsx
 │ ├── Forage Assignment1.xlsx
@@ -25,54 +32,57 @@ Supporting scalable growth with data-driven insights and recommendations.
 
 ---
 
-## 🗂️ **Description**
+## ⚙️ How to Use
 
-**Objective:**  
-This project analyzes large volumes of social media content for Social Buzz, a rapidly expanding tech company preparing for IPO readiness.  
-It identifies the top categories by aggregate popularity and provides actionable recommendations for scaling content operations.
+1. **Review the Data:**  
+   - The `data/` folder contains raw and processed data files used for the analysis.
 
----
+2. **Run the Analysis:**  
+   - Any Python scripts, Jupyter notebooks, or SQL files will be under `scripts/`.
+   - These outline the data cleaning, category aggregation, and insight generation processes.
 
-## ⚙️ **How to Use**
+3. **Explore the Outputs:**  
+   - The `outputs/` folder will include generated charts, tables, or exports for easy sharing.
 
-1. **Data:**  
-   - `data/` folder contains raw and processed datasets.
-
-2. **Scripts:**  
-   - `scripts/` includes code for data cleaning, analysis, and generating insights.
-   - Use Python or Jupyter Notebooks to run the workflow.
-
-3. **Outputs:**  
-   - `outputs/` includes charts, summary tables, or other results from the analysis.
-
-4. **Presentations:**  
-   - Final presentation slides are in `presentations/` for executive summary and stakeholder sharing.
+4. **View the Final Presentation:**  
+   - `presentations/` contains the stakeholder-ready slide deck summarizing the findings and recommendations.
 
 ---
 
-## ✅ **Key Insights**
+## ✅ Key Findings
 
-- Top 5 content categories identified by engagement.
-- Recommendations for big data architecture to handle scaling.
-- Strategy roadmap for leveraging user-generated content for future growth.
+- Identified the **Top 5 categories** by aggregate popularity, supporting future content strategy.
+- Highlighted engagement insights to help Social Buzz capitalize on user-generated content volume.
+- Provided clear recommendations for scalable big data infrastructure and readiness for IPO-level growth.
 
 ---
 
-## 🤝 **Contributors**
+## 🚀 Next Steps
+
+- [ ] Add analysis scripts or notebooks to the `scripts/` folder.
+- [ ] Export charts and tables into `outputs/` for easy visualization.
+- [ ] Keep the presentation slides updated as new insights are generated.
+
+---
+
+## 🤝 Contributors
 
 - **Sydney Ryan** — Data Analyst
 
 ---
 
-## 📜 **License**
+## 📜 License
 
-This project is for demonstration purposes only. Please contact the author for permissions if you’d like to reuse or adapt any part of this work.
+This project is for demonstration and portfolio purposes only. Please contact the contributor for permissions if you wish to reuse or adapt any part of this work.
 
 ---
 
-## 🚀 **Next Steps**
+## 🔗 Connect
 
-- [ ] Add more analysis scripts if needed.
-- [ ] Export results visuals to `outputs/`.
-- [ ] Keep this repository updated with future iterations.
+**LinkedIn:** [Sydney A. Ryan](https://www.linkedin.com/in/sydneya-ryan)  
+**GitHub:** [SydneyRyan](https://github.com/SydneyRyan)  
+**Tableau Public:** [SydneyRyan’s Visualizations](https://public.tableau.com/app/profile/sydneyryan)
+
+
+---
 
